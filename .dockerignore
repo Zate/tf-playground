@@ -1,0 +1,6 @@
+.git
+.gitignore
+**/.terraform
+**/.terragrunt-cache
+**/*Dockerfile
+docker/
